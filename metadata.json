@@ -1,0 +1,8 @@
+{
+  "name": "ParkEasy",
+  "description": "A crowdsourced, AI-powered parking assistant for university campuses. Features real-time spot tracking, predictive availability analytics, and student rewards.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
